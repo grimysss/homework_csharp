@@ -15,13 +15,20 @@ namespace Triangle
                 //Строим треугольник с заданной стороной
                 for(int i = 1; i <= x; i++)
                 {
-                    for(int j = 1; j <= x - i; j++)
+                    for(int j = i; j < x; j++)
+                    {
+                        Console.Write(" ");
+                    }
 
-                        Console.Write(' ');
-
-
-                    for(int k = 1; k <= 2 * i - 1; k++)
-                        Console.Write('*');
+                    for(int k = 1; k < i * 2; k++)
+                    {
+                        if(k % 2 != 0)
+                        {
+                            Console.Write("*");
+                        }
+                        else
+                            Console.Write(" ");
+                    }
                     Console.WriteLine();
                 }
             }

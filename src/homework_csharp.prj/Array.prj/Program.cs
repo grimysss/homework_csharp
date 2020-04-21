@@ -27,12 +27,12 @@ namespace Array
                     countEven++;
 
                 //подсчитываем колличество нечётных чисел
-                if(number % 2 == 1)
+                if(number % 2 != 0)
                     countOdd++;
             }
             //показываем колличество чётных и нечётных чисел
-            Console.WriteLine("чётное число появилось " + countOdd + " раз");
-            Console.WriteLine("нечётное число появилось " + countEven + " раз");
+            Console.WriteLine("чётное число появилось " + countEven + " раз");
+            Console.WriteLine("нечётное число появилось " + countOdd + " раз");
         }
     }
 }

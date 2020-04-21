@@ -24,3 +24,16 @@ D:\repository\homework_csharp\src\homework_csharp.prj\Triangle.prj\obj\Debug\net
 D:\repository\homework_csharp\src\homework_csharp.prj\Triangle.prj\obj\Debug\netcoreapp3.1\Triangle.dll
 D:\repository\homework_csharp\src\homework_csharp.prj\Triangle.prj\obj\Debug\netcoreapp3.1\Triangle.pdb
 D:\repository\homework_csharp\src\homework_csharp.prj\Triangle.prj\obj\Debug\netcoreapp3.1\Triangle.genruntimeconfig.cache
+D:\repository\homework_csharp\homework_csharp\src\homework_csharp.prj\Triangle.prj\bin\Debug\netcoreapp3.1\Triangle.exe
+D:\repository\homework_csharp\homework_csharp\src\homework_csharp.prj\Triangle.prj\bin\Debug\netcoreapp3.1\Triangle.deps.json
+D:\repository\homework_csharp\homework_csharp\src\homework_csharp.prj\Triangle.prj\bin\Debug\netcoreapp3.1\Triangle.runtimeconfig.json
+D:\repository\homework_csharp\homework_csharp\src\homework_csharp.prj\Triangle.prj\bin\Debug\netcoreapp3.1\Triangle.runtimeconfig.dev.json
+D:\repository\homework_csharp\homework_csharp\src\homework_csharp.prj\Triangle.prj\bin\Debug\netcoreapp3.1\Triangle.dll
+D:\repository\homework_csharp\homework_csharp\src\homework_csharp.prj\Triangle.prj\bin\Debug\netcoreapp3.1\Triangle.pdb
+D:\repository\homework_csharp\homework_csharp\src\homework_csharp.prj\Triangle.prj\obj\Debug\netcoreapp3.1\Triangle.csprojAssemblyReference.cache
+D:\repository\homework_csharp\homework_csharp\src\homework_csharp.prj\Triangle.prj\obj\Debug\netcoreapp3.1\Triangle.csproj.CoreCompileInputs.cache
+D:\repository\homework_csharp\homework_csharp\src\homework_csharp.prj\Triangle.prj\obj\Debug\netcoreapp3.1\Triangle.AssemblyInfoInputs.cache
+D:\repository\homework_csharp\homework_csharp\src\homework_csharp.prj\Triangle.prj\obj\Debug\netcoreapp3.1\Triangle.AssemblyInfo.cs
+D:\repository\homework_csharp\homework_csharp\src\homework_csharp.prj\Triangle.prj\obj\Debug\netcoreapp3.1\Triangle.dll
+D:\repository\homework_csharp\homework_csharp\src\homework_csharp.prj\Triangle.prj\obj\Debug\netcoreapp3.1\Triangle.pdb
+D:\repository\homework_csharp\homework_csharp\src\homework_csharp.prj\Triangle.prj\obj\Debug\netcoreapp3.1\Triangle.genruntimeconfig.cache
